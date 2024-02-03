@@ -1,1 +1,1 @@
-Exercícios realizados durante a semana 3 do bootcamp da WoMakers Code.
+Exercícios realizados durante o bootcamp da WoMakers Code.
